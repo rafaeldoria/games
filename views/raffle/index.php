@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <img src="../../public/img/monetizze-logo.png" alt="">
+    
     <div class="container">
         <h1>Resultado</h1>
         
